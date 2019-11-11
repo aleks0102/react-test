@@ -1,0 +1,15 @@
+.App {
+  color: black;
+  font-weight: 700;
+  text-align: center;
+}
+
+.app-wraper{
+  width: 1200px;
+  margin: 0 auto;
+}
+
+.app-wraper-content{
+  background-color: rgb(238, 238, 238);
+
+}
